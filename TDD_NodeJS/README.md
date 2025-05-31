@@ -1,4 +1,4 @@
-# NodeJS && TDD
+# TDD(NodeJS)
 
 ## Index
 - [강의소개](./01_intro.md)

@@ -1,4 +1,4 @@
-# 테스트 개념
+# 02. 테스트 개념
 
 ## 소개
 - 테스트 종류: Unit Test, Functional Test, Integration Test, Component Test, Contract Test, E2E Test, A/B Test, Stress Test
